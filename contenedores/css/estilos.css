@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background:  rgb(234, 239, 255, 1.0);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    width: 200px;
+    height: 300px;
+    font-size: 20px;
+    font-style: verdana;
+    text-align: center;
+    color: white;
+    position: relative;
+    left: 50px;
+    top: -30px;
+    padding: 20px;
+    background: rgb(96, 79, 250, 1.0);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
+h1{
+    width: 800px;
+    height: 40px;
+    font-size: 20px;
+    font-style: verdana;
+    text-align: right;
+    color: white;
+    position: relative;
+    left: 70px;
+    top: 30px;
+    padding: 20px;
+    background: rgb(96, 79, 250, 1.0);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
+h2{
+    width: 800px;
+    height: 40px;
+    font-size: 20px;
+    font-style: verdana;
+    text-align: right;
+    color: black;
+    position: relative;
+    left: 640px;
+    top: 50px;
+    padding: 20px;
+    background: rgb(255, 255, 255, 1.0);
+    border-radius: 10px;
+    box-shadow: 3px 3px grey;
+}
+h3{
+    width: 200px;
+    height: 300px;
+    font-size: 20px;
+    font-style: verdana;
+    text-align: center;
+    color: black;
+    position: relative;
+    left: 350px;
+    top: -230px;
+    padding: 20px;
+    background: rgb(255, 255, 255, 1.0);
+    border-radius: 10px;
+    box-shadow: 3px 3px grey;
+}
+article{
+    width: 180px;
+    height: 200px;
+    font-size: 20px;
+    font-style: verdana;
+    text-align: center;
+    color: white;
+    position: relative;
+    left: 650px;
+    top: -550px;
+    padding: 20px;
+    background: rgb(96, 79, 250, 1.0);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
+h4{
+    width: 200px;
+    height: 300px;
+    font-size: 20px;
+    font-style: verdana;
+    text-align: center;
+    color: black;
+    position: relative;
+    left: 980px;
+    top: -810px;
+    padding: 20px;
+    background: rgb(255, 255, 255, 1.0);
+    border-radius: 10px;
+    box-shadow: 3px 3px grey;
+}
+h5{
+    width: 800px;
+    height: 40px;
+    font-size: 20px;
+    font-style: verdana;
+    text-align: right;
+    color: white;
+    position: absolute;
+    left: 630px;
+    top: 650px;
+    padding: 20px;
+    background: rgb(96, 79, 250, 1.0);
+    border-radius: 10px;
+    box-shadow: 3px 3px black;
+}
+h6{
+    width: 800px;
+    height: 40px;
+    font-size: 20px;
+    font-style: verdana;
+    text-align: right;
+    color: black;
+    position: absolute;
+    left: 350px;
+    top: 750px;
+    padding: 20px;
+    background: rgb(255, 255, 255, 1.0);
+    border-radius: 10px;
+    box-shadow: 3px 3px grey;
+}
+h7{
+    width: 200px;
+    height: 300px;
+    font-size: 20px;
+    font-style: verdana;
+    text-align: center;
+    color: black;
+    position: absolute;
+    left: 50px;
+    top: 490px;
+    padding: 20px;
+    background: rgb(255, 255, 255, 1.0);
+    border-radius: 10px;
+    box-shadow: 3px 3px grey;
+}

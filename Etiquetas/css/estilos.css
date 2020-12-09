@@ -1,0 +1,59 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+#principal{
+	background-color: cyan;
+	background-repeat: no-repeat;
+	width: 100%;
+	height:100vh;
+	position: relative;
+}
+#contenidoetiquetas{
+	margin-top: 5%;
+	/*background-color: magenta;*/
+	width: 60%;
+	margin-left: 20%;
+}
+#contenidoetiquetas>p{
+	text-align: center;
+	/*font-size: 30px;*/
+	margin-bottom: 5%;
+	font-size: 35px;
+		color: #EB8B39;
+}
+#tr-estilo{
+	background-color: #EFB261;
+}
+#th-estilo{
+	font-size: 21px;     
+	font-weight: normal;     
+	padding: 8px;     
+	background: #EFB261;
+    border-top: 4px solid #ED9121;
+    border-bottom: 1px solid #fff; 
+    color:brown;
+}
+#td-estilo{
+	padding: 8px;     
+	background: #FFC594;     
+	border-bottom: 1px solid #fff;
+    color: #C35817;    
+    border-top: 1px solid transparent; 
+    font-size: 17px;
+}
+#tableetiquetas{
+	font-family: "Lucida Sans Unicode","Lucida Grande", Sans-Serif;
+    font-size: 12px;
+    /*margin: 45px; */
+    width: 100%; 
+    text-align: left;    
+    border-collapse: collapse; 
+    background-color:#EFB261;
+}
+#principal-alumnos-admin{
+	background-color: #EBE6D1;
+	height: 300vh;
+}
+	

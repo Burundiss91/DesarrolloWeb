@@ -1,0 +1,106 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+/**/
+.contenedor {
+  background: linear-gradient(rgba(77,216,3,.5),rgba(111,214,245,.5)),url(img/fondo.jpg);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.color-overlay {
+  width: 100%;
+  height: 100%;
+  background: #30B595;
+  opacity: .7;
+  position: absolute;
+}
+
+.color-overlay2 {
+  width: 100%;
+  height: 50%;
+  background: #0E0462;
+  opacity: .6;
+  position: absolute;
+  padding-top: 24%;
+  
+}
+
+.login{
+  background-color: white;
+  width: 25%;
+  position: absolute;
+  border-radius: 10px;
+  height: 65%;
+  text-align: center;
+}
+
+.correo{
+  border:0;
+  text-align: left;
+  border-bottom: 2px solid #0F4EA3;
+  width: 60%;
+
+}
+
+.correo:focus{
+  text-align: center;
+}
+
+.pass{
+  border:0;
+  text-align: left;
+  border-bottom: 2px solid #0F4EA3;
+  width: 60%;
+}
+
+.pass:focus{
+  text-align: center;
+}
+
+
+.sub{
+  border-radius: 20px;
+  background-color: #7AFA87;
+  width: 50%;
+  font-family: 'Manjari', sans-serif;
+  font-weight: 400;
+  font-size:15px;
+  padding-top: 5px;
+  
+}
+
+
+
+#titulo{
+  color: #0F4EA3;
+  font-family: 'Manjari', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  line-height:0px;
+  padding-top: 30px;
+}
+
+
+#subtitulo{
+  color: #A1C5D5;
+  font-family: 'Manjari', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+
+}
+
+.inputs{
+padding-top: 70px;
+}
+
+
